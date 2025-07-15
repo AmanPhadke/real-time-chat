@@ -19,9 +19,12 @@
   "description": "",
   "dependencies": {
     "npx": "^10.2.2",
-    "tsc": "^2.0.4"
+    "tsc": "^2.0.4",
+    "websocket": "^1.0.35"
   },
   "devDependencies": {
+    "@types/node": "^24.0.14",
+    "@types/websocket": "^1.0.10",
     "typescript": "^5.8.3"
   }
 }
